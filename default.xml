@@ -9,10 +9,10 @@
     <project name="poky"
         remote="yoctoproject"
         path="poky"
-        revision="master"/>
+        revision="pyro"/>
 
     <project name="meta-raspberrypi"
         remote="yoctoproject"
         path="meta-raspberrypi"
-	revision="master"/>
+        revision="pyro"/>
 </manifest>
