@@ -15,4 +15,9 @@
         remote="yoctoproject"
         path="meta-raspberrypi"
         revision="pyro"/>
+
+    <project name="config-sample"
+        remote="github"
+        path="."
+	revision="master"/>
 </manifest>
