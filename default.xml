@@ -16,7 +16,7 @@
         path="meta-raspberrypi"
         revision="pyro"/>
 
-    <project name="config-sample"
+<project name="lukaszgard/config-sample"
         remote="github"
         path="."
 	revision="master"/>
