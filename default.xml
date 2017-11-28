@@ -16,8 +16,18 @@
         path="meta-raspberrypi"
 	revision="master"/>
 
+    <project name="meta-openembedded"
+        remote="github"
+        path="meta-openembedded"
+	revision="master"/>
+
+    <project name="lukaszgard/meta-supla"
+        remote="github"
+        path="meta-supla"
+	revision="master"/>
+
 <project name="lukaszgard/config-sample"
         remote="github"
         path="."
-	revision="master"/>
+	revision="supla"/>
 </manifest>
