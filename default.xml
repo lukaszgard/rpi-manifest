@@ -29,5 +29,5 @@
 <project name="lukaszgard/config-sample"
         remote="github"
         path="."
-	revision="supla"/>
+	revision="master"/>
 </manifest>
