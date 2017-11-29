@@ -26,8 +26,8 @@
         path="meta-supla"
 	revision="master"/>
 
-<project name="lukaszgard/config-sample"
+    <project name="lukaszgard/config-sample"
         remote="github"
         path="."
-	revision="master"/>
+	revision="supla"/>
 </manifest>
