@@ -16,7 +16,7 @@
         path="meta-raspberrypi"
 	revision="master"/>
 
-    <project name="meta-openembedded"
+    <project name="openembedded/meta-openembedded"
         remote="github"
         path="meta-openembedded"
 	revision="master"/>
